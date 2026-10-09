@@ -1,0 +1,28 @@
+RESULTADOS - ANÁLISIS CON MAP-REDUCE
+Alimentos analizados: 96
+
+1. Mayor cantidad de grasas: Aceites vegetales y Torta y pasta de cacao (100 g)
+2. Mayor cantidad de vitamina C: Ají pimiento (87 mg)
+3. Alimentos con tiamina > 0.1: 30
+4. Mayor suma de vitaminas: Despojos viceras (res) (3282.61)
+5. Hierro > 1 mg y grasas < 3 g (20 alimentos):
+   - Trigo
+   - Cebada
+   - Derivados del arroz
+   - Harina de trigo (1)
+   - Pan
+   - Azúcar de caña cruda
+   - Panela
+   - Miel de caña
+   - Lentejas
+   - Frijol
+   - Guandú
+   - Poroto
+   - Arvejas y guisantes
+   - Camarones
+   - Ajos
+   - Otras hortalizas frescas (6)
+   - Derivados del plátano
+   - Frutas secas
+   - Café (9)
+   - Extracto de café
